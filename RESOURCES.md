@@ -10,3 +10,12 @@
 https://buildmedia.readthedocs.org/media/pdf/napalm/latest/napalm.pdf
 
 
+## Images
+1. Juniper VSRX: https://pan.baidu.com/s/1geE3zJ9       PIN: k887
+    - From website: (Needs chinese phone #) in https://bbs.hh010.com/forum.php?mod=viewthread&tid=525144&extra=page%3D1%26filter%3Dsortid%26sortid%3D1
+2. More Juniper Images: https://networkrare.com/free-download-junos-juniper-image-for-gns3-eve-ng-vmware-and-virtual-box/
+
+
+## Overall network resources
+1. Network Rare: https://networkrare.com/
+
