@@ -10,8 +10,6 @@ VEOS_BOX = "NXOS-box"
 Vagrant.configure(2) do |config|
 
     config.ssh.shell = "zsh"
-    config.ssh.username = "root"
-    config.ssh.password = "tessel2" 
 
     config.vm.define "base" do |base|
         # This box will be downloaded and added automatically if you don't

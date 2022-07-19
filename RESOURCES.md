@@ -18,4 +18,4 @@ https://buildmedia.readthedocs.org/media/pdf/napalm/latest/napalm.pdf
 
 ## Overall network resources
 1. Network Rare: https://networkrare.com/
-
+2. Arista Networks: https://www.arista.com/en/support/product-documentation/gpl
